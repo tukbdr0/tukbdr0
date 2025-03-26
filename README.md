@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web Security**
 
-- 👨‍💻 All of my projects are available at [tukbdr0](tukbdr0)
-
 - 📝 I regularly write articles on [https://tukbdr.medium.com/](https://tukbdr.medium.com/)
 
 - 💬 Ask me about **Computer Hardware, System and Network, Linux, Iot , Digital Forensic, CTF**
